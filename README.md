@@ -58,7 +58,7 @@ Banking Management System/
 1. Clone the repository
 
 ```
-git clone <your-repository-link>
+git clone <https://github.com/nishagirija321-beep/Bank-Management-System>
 ```
 
 2. Open the project folder
